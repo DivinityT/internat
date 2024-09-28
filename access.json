@@ -1,8 +1,12 @@
 {
-  "users": [
-    {
-      "username": "test",
-      "is_active": true
-    }
-  ]
-}
+    "users": [
+      {
+        "username": "admin",
+        "is_active": true
+      },
+      {
+        "username": "sfda",
+        "is_active": false
+      }
+    ]
+  }
