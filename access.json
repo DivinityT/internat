@@ -1,8 +1,8 @@
 {
   "users": [
     {
-      "username": "test11",
-      "is_active": false
+      "username": "test",
+      "is_active": true
     }
   ]
 }
