@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "username": "user1",
+      "is_active": true
+    },
+    {
+      "username": "user2",
+      "is_active": false
+    }
+  ]
+}
